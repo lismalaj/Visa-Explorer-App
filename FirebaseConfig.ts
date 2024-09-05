@@ -6,12 +6,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBTmrTe0IGXxjTKueADjMfIC98pz_yvHYg",
-  authDomain: "visaexplorer-828a3.firebaseapp.com",
-  projectId: "visaexplorer-828a3",
-  storageBucket: "visaexplorer-828a3.appspot.com",
-  messagingSenderId: "647634365855",
-  appId: "1:647634365855:web:deb594047ea716f1fae1aa"
+  apiKey: "**************",
+  authDomain: "visaexplo***",
+  projectId: "visaexplo***",
+  storageBucket: "visaexp****",
+  messagingSenderId: "647*****",
+  appId: "1:64******************"
 };
 
 // Initialize Firebase
